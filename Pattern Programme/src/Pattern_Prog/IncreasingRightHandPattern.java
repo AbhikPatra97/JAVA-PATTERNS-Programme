@@ -1,4 +1,4 @@
-package pattern;
+package Pattern_Prog;
 
 public class IncreasingRightHandPattern {
 
